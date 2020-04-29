@@ -1,0 +1,31 @@
+{
+  "groups": [
+
+  ],
+  "properties": [
+    {
+      "name": "fisco-bcos.connect",
+      "type": "io.github.u10.fiscobcosstarter.config.ConnectConfig"
+    },
+    {
+      "name": "fisco-bcos.gas",
+      "type": "io.github.u10.fiscobcosstarter.config.gas"
+    },
+    {
+      "name": "fisco-bcos.encrypt-type",
+      "type": "io.github.u10.fiscobcosstarter.config.EncryptTypeConfig"
+    },
+    {
+      "name": "fisco-bcos.group-channel-connections-config",
+      "type": "io.github.u10.fiscobcosstarter.config.GroupChannelConnectionsPropertyConfig"
+    },
+    {
+      "name": "fisco-bcos.channel-service",
+      "type": "io.github.u10.fiscobcosstarter.config.ServiceConfig"
+    },
+    {
+      "name": "fisco-bcos.accounts",
+      "type": "io.github.u10.fiscobcosstarter.config.AccountConfig"
+    }
+  ]
+}
